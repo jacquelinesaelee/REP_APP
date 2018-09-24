@@ -11,6 +11,7 @@ export default class App extends React.Component {
       <View style={styles.container}>
         <Text>REP</Text>
         <Text>Raspados | Elotes | Paletas</Text>
+        <Text>This is just a test</Text>
       </View>
     );
   }
